@@ -1,0 +1,30 @@
+h1 {
+  font-size: 40px;
+  color: black;
+}
+html {
+  background-color: #BCAAA4;
+}
+#quote-box {
+  text-align: center;
+  background-color: white;
+  width: 50%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+#author {
+  font-size: 18px;
+}
+#new-quote {  
+  width: 100px;
+  align-items: center;
+  margin: auto;
+  font-weight: bold;
+  font-size: 16px;
+}
+#tweet-quote {
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
